@@ -1,0 +1,11 @@
+@import url("https://fontsapi.zeoseven.com/442/main/result.css");
+
+/* 设置Maple Mono NF-CN为默认字体 */
+:root {
+  --text-font: 'Maple Mono NF CN', monospace, sans-serif, arial;
+}
+
+body {
+  font-family: 'Maple Mono NF CN', monospace, sans-serif;
+  font-weight: normal;
+} 
